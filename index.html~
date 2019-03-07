@@ -8,7 +8,11 @@
 		<a href="about.html">About this project</a>
 		<p>Call me Ishmael.</p>
 		<a href="https://www.flickr.com/photos/28883788@N04/10097824543">
-		<img src="images/breaching_whale.jpg">
+<<<<<<< HEAD
+		<img src="images/breaching_whale.jpg" alt="Whale">
+=======
+		<img src="images/breaching_whale.jpg" alt="Breaching whale">
+>>>>>>> e0664174f6eacbff0ff7b879f338cf2296bf00b1
 		</a>
 	</body>
 </html>
